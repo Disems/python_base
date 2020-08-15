@@ -1,0 +1,40 @@
+import pyautogui as pg
+import time
+# pg.click(733, 951)
+# css pg.click(231, 865)
+# pg.click(231, 865)
+# pg.leftclick(515, 227)
+# pg.typewrite("/admins", 0.0)
+# pg.typewrite(["enter"])
+
+# GS
+# pg.click(1169, 1000)
+# time.sleep(5)
+# pg.click(1169, 1000)
+print(pg.position())
+pg.click(835, 601)
+time.sleep(2)
+pg.click(962, 681)
+time.sleep(2)
+pg.click(835, 601)
+time.sleep(2)
+pg.click(962, 681)
+time.sleep(2)
+pg.click(835, 601)
+time.sleep(2)
+pg.click(962, 681)
+time.sleep(2)
+pg.click(835, 601)
+time.sleep(2)
+pg.click(962, 681)
+time.sleep(2)
+pg.click(835, 601)
+time.sleep(2)
+pg.click(962, 681)
+time.sleep(2)
+pg.click(835, 601)
+time.sleep(2)
+pg.click(962, 681)
+
+end
+
